@@ -1,3 +1,3 @@
 # Gitチュートリアル
 
--develop
+- feature-A
